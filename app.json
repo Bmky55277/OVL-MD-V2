@@ -14,12 +14,12 @@
     },
     "NOM_OWNER": {
       "description": "Nom de l'Owner du bot",
-      "value": "Ainz",
+      "value": "Nathan BK 🖤☠️",
       "required": false
     },
     "NUMERO_OWNER": {
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "226xxxxxxxx",
+      "value": "243970802797",
       "required": true
     },
     "MODE": {
@@ -33,17 +33,17 @@
       "required": true
     },
     "NOM_BOT": {
-      "description": "Nom du bot",
+      "description": "souls,
       "value": "🤖 OVL-MD BOT V2",
       "required": false
     },
     "STICKER_PACK_NAME": {
-      "description": "Nom du pack de stickers",
+      "description": "Nate Bk 🤍✨",
       "value": "ᴏᴠʟ-ᴍᴅ-ᴠ𝟸",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
-      "description": "Auteur du sticker",
+      "description": "Nathan 👍🏽",
       "value": "ᴀɪɴᴢ🔅✨",
       "required": false
     }
